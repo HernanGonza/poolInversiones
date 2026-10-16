@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function Nav() {
-  const links = [["contexto", "Contexto"], ["propuesta", "Propuesta"], ["flujo", "Flujo"], ["figuras", "Figura jurídica"], ["gobernanza", "Gobernanza"], ["simulador", "Simulador"], ["transparencia", "Transparencia"], ["faq", "Preguntas"]];
+  const links = [["contexto", "Contexto"], ["propuesta", "Propuesta"], ["flujo", "Flujo"], ["figuras", "Figura jurídica"], ["gobernanza", "Gobernanza"], ["antecedentes", "Antecedentes"], ["simulador", "Simulador"], ["transparencia", "Transparencia"], ["faq", "Preguntas"]];
   return /*#__PURE__*/React.createElement("nav", {
     className: "top"
   }, /*#__PURE__*/React.createElement("div", {
